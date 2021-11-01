@@ -46,5 +46,6 @@ knowing the highest polluted city that city can take measures to avoid the air p
 
 <h3><b>Web Application of the project :</b></h3>
 https://rishab-sarkar.shinyapps.io/AQI-India/
-![environs](https://user-images.githubusercontent.com/73884676/139638917-08653f44-c36e-42ea-a644-09d63ced86df.png)
+![environs](https://user-images.githubusercontent.com/73884676/139639050-8a2cc7e7-773a-44f1-aef6-0877e6257b5b.png)
+
 
